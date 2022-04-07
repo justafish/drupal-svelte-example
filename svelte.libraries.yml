@@ -1,0 +1,6 @@
+svelte:
+  js:
+    public/build/bundle.js: {}
+  css:
+    component:
+      public/build/bundle.css: {}
